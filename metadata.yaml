@@ -1,0 +1,35 @@
+_repo: Maamme-kirja_49600
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Zachris
+    - Topelius, Sakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+description: ''
+gutenberg_issued: '2015-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49600'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Maamme kirja
+url: http://www.gutenberg.org/ebooks/49600
