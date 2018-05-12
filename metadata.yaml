@@ -1,4 +1,5 @@
 _repo: Maamme-kirja_49600
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cajander, Paavo Emil
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4531'
     url: http://www.gutenberg.org/2009/agents/4531
     wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -23,6 +27,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49600#Maamme-kirja
 gutenberg_issued: '2015-08-04'
 gutenberg_type: Text
 identifiers:
